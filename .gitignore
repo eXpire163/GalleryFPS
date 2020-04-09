@@ -1,0 +1,12 @@
+**/credentials.json
+
+build/
+Assets/StandardAssets
+
+
+.vs/
+Library/
+Logs/
+obj/
+Package/
+StoragePath/
