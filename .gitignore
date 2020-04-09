@@ -1,7 +1,9 @@
 **/credentials.json
 
 build/
-Assets/StandardAssets
+Assets/Packages/
+Assets/Standard Assets/
+Assets/TextMesh Pro/
 
 
 .vs/
@@ -10,3 +12,4 @@ Logs/
 obj/
 Package/
 StoragePath/
+Packages/
